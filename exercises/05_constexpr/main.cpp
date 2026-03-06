@@ -21,7 +21,6 @@ constexpr unsigned long long fibonacci(int i) {
         b = result;
     }
 
-    return result;
 }
 
 int main(int argc, char **argv) {
