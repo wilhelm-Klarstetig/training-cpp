@@ -20,7 +20,8 @@ constexpr unsigned long long fibonacci(int i) {
         a = b;
         b = result;
     }
-
+    return result;
+   
 }
 
 int main(int argc, char **argv) {
